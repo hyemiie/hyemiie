@@ -7,8 +7,8 @@
 I am a software developer who is passionate about learning, building programs aimed at solving problems. I also enjoy writing and breaking down technical concepts into understandable bits.
 
 * 🧠  I'm currently learning Node js.
-* 🤝  Open to collaboration on Software development and Technical writing
-* ✉️  You can contact me at  [yemiojedapo1@gmail.com](mailto:yemiojedapo1@gmail.com)
+* 🤝  I'm open to collaborate on Software development and Technical writing
+* ✉️  You can reach me at  [yemiojedapo1@gmail.com](mailto:yemiojedapo1@gmail.com)
 
 ### Skills
 
