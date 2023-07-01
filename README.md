@@ -4,7 +4,7 @@
  ### My name is Yemi Ojedapo
 ---------------------
 
-I am a software developer who is passionate about learning, building programs aimed at solving problems. I also enjoy writing and breaking down technical concepts into understandable bits.
+I am a software developer who loves learning and building programs aimed at solving problems. I also enjoy writing and breaking down technical concepts into understandable bits.
 
 * 🧠  I'm currently learning Node js.
 * 🤝  I'm open to collaborate on Software development and Technical writing
