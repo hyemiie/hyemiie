@@ -6,7 +6,7 @@
 
 I am a software developer who loves learning and building programs aimed at solving problems. I also enjoy writing and breaking down technical concepts into understandable bits.
 
-* 🧠  I'm currently learning Node js.
+* 🧠  I'm currently learning React.js.
 * 🤝  I'm open to collaborate on Software development and Technical writing
 * ✉️  You can reach me at  [yemiojedapo1@gmail.com](mailto:yemiojedapo1@gmail.com)
 
