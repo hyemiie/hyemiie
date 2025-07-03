@@ -8,7 +8,7 @@ I work mostly with **Python (and its frameworks)**, **Node.js**, **React**, and 
 ### 🛠️ Tech Stack
 
 **Languages**: Python, JavaScript, Java  
-**Backend**: FastAPI, Express.js, Flask  
+**Backend**: FastAPI, Express.js, Flask, Django
 **Frontend**: React, TailwindCSS, Next.js  
 **Database**: PostgreSQL, SQLite, MongoDB, MSSQL  
 **Other**: Git, Docker, Firebase, OpenAI API, Azure
