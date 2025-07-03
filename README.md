@@ -23,11 +23,11 @@ I work mostly with **Python (and its frameworks)**, **Node.js**, **React**, and 
 
 > You can check them out in my pinned repos 👇 or learn more about me on my [portfolio](https://hyemiieportfolio.vercel.app)
 
-Feel free to reach out — I’m always open to a good build or a good conversation.
+Feel free to reach out — I’m always open to a good build or a fun conversation.
 
 ---
 
-## 📫 Contacts
+## 📫 Contact Me
 
 - 💼 LinkedIn: [linkedin.com/in/yemi-mercy-o](https://www.linkedin.com/in/yemi-mercy-o-55b319298/)  
 - 📧 Email: yemiojedapo1@gmail.com
