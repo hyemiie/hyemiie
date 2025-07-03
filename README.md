@@ -1,6 +1,6 @@
 # Hi👋, my name is Yemi!
 
-I'm a fullstack developer with 2+ yea rs of experience, focused on backend architecture, systems design, and secure APIs.  
+I'm a fullstack developer with 2+ years of experience, focused on backend architecture, systems design, and secure APIs.  
 I work mostly with **Python (and its frameworks)**, **Node.js**, **React**, and **PostgreSQL** to build scalable, user-focused applications.
 
 ---
