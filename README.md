@@ -24,7 +24,6 @@ I work mostly with **Python (and its frameworks)**, **Node.js**, **React**, and 
 > You can check them out in my pinned repos 👇 or learn more about me on my [portfolio](https://hyemiieportfolio.vercel.app)
 
 I'm always open to a good build or a fun conversation so feel free to reach out
----
 
 ### 📫 You can find me at
 
