@@ -4,14 +4,22 @@ I'm a fullstack developer with 2+ years of experience, focused on backend archit
 I work mostly with **Python (and its frameworks)**, **Node.js**, **React**, and **PostgreSQL** to build scalable, user-focused applications.
 
 ---
+## 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
+**Languages**  
+Python • JavaScript • Java
 
-**Languages**: Python, JavaScript, Java  
-**Backend**: FastAPI, Express.js, Flask, Django.
-**Frontend**: React, TailwindCSS, Next.js  
-**Database**: PostgreSQL, SQLite, MongoDB, MSSQL  
-**Other**: Git, Docker, Firebase, OpenAI API, Azure
+**Backend**  
+FastAPI • Express.js • Flask • Django
+
+**Frontend**  
+React • TailwindCSS • Next.js
+
+**Database**  
+PostgreSQL • SQLite • MongoDB • MSSQL
+
+**Tools & Cloud**  
+Git • Docker • Firebase • OpenAI API • Azure
 
 ---
 
