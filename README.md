@@ -4,7 +4,7 @@ I'm a fullstack developer with 2+ years of experience, focused on backend archit
 I work mostly with **Python (and its frameworks)**, **Node.js**, **React**, and **PostgreSQL** to build scalable, user-focused applications.
 
 ---
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 **Languages**  
 Python • JavaScript • Java
